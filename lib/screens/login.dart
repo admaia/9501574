@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
-import 'package:spending_app/screens/core.dart';
+import "package:flutter/material.dart";
+import "package:shared_preferences/shared_preferences.dart";
+import "package:spending_app/screens/core.dart";
 
 class LoginPage extends StatefulWidget {
   const LoginPage({super.key});
@@ -61,9 +61,9 @@ class _LoginPageState extends State<LoginPage> {
 
                 if (email == email && motdepasse == mdp) {
                   SharedPreferences sp = await SharedPreferences.getInstance();
-                  await sp.setBool('isLogin', true);
-                  await sp.setString('email', email);
-                  await sp.setString('mot de passe', motdepasse);
+                  await sp.setBool("isLogin", true);
+                  await sp.setString("email", email);
+                  await sp.setString("mot de passe", motdepasse);
 
                   Navigator.pushReplacement(
                     context,
@@ -72,7 +72,7 @@ class _LoginPageState extends State<LoginPage> {
                 } else {
                   ScaffoldMessenger.of(context).showSnackBar(
                     const SnackBar(
-                      content: Text('Email ou mot de passe incorrect'),
+                      content: Text("Email ou mot de passe incorrect"),
                     ),
                   );
                 }
@@ -85,7 +85,7 @@ class _LoginPageState extends State<LoginPage> {
                 ),
               ),
               child: const Text(
-                'Connexion',
+                "Connexion",
                 style: TextStyle(color: Colors.white, fontSize: 18),
               ),
             ),

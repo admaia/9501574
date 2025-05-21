@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
-import 'package:spending_app/screens/login.dart';
+import "package:flutter/material.dart";
+import "package:spending_app/screens/login.dart";
 
 class MyWelcomePage extends StatefulWidget {
   const MyWelcomePage({super.key});
@@ -61,7 +61,7 @@ class _MyWelcomePageState extends State<MyWelcomePage> {
                 });
               },
               child: Text(
-                'Commencer',
+                "Commencer",
                 style: TextStyle(
                   fontSize: 20,
                   color: const Color.fromARGB(255, 35, 116, 181),
