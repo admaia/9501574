@@ -15,8 +15,12 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # spending_app
-![Capture d’écran 2025-05-21 à 20 52 43](https://github.com/user-attachments/assets/2b3da9a1![Capture d’écran 2025-05-21 à 20 52 30](https://github.com/user-attachments/assets/60079a3a-4d86-445e-a9e7-8ab648e9d8c6)![Capture d’écran 2025-05-21 à 20 53 05](https://github.com/user-attachments/assets/f101fd07-f0c2-428a-af86-2d963f98f877)
-![Capture d’écran 2025-05-21 à 20 53 21](https://github.com/user-attachments/assets/fd7f4353-0113-4c76-8fac-be833a51aeb5)
+![Capture d’écran 2025-05-21 à 20 52 43](https://github.com/user-attachments/assets/39933def-073b-4888-ae0e-82472f759361)
 
--5945-4caa-bdeb-00768293d5ee)
-![Capture d’écran 2025-05-21 à 20 53 14](https://github.com/user-attachments/assets/69af2455-6750-4ceb-808e-a1a6053026b2)
+![Capture d’écran 2025-05-21 à 20 52 30](https://github.com/user-attachments/assets/ba55baaa-3485-4590-b34a-fd15ca15a165)
+
+![Capture d’écran 2025-05-21 à 20 53 05](https://github.com/user-attachments/assets/eb8f73f7-d446-4042-a799-57349c572c44)
+
+![Capture d’écran 2025-05-21 à 20 53 14](https://github.com/user-attachments/assets/b7016dc9-d648-4fd6-ab51-0ac1726f2a92)
+
+![Capture d’écran 2025-05-21 à 20 53 21](https://github.com/user-attachments/assets/c429cd82-a6d9-4c2c-a66a-a1ca5cf1eabf)
